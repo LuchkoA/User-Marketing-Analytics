@@ -1,0 +1,5 @@
+campaign_id,channel,start_date,end_date,cost
+101,Google Ads,2023-01-01,2023-01-15,500
+102,Facebook,2023-01-05,2023-01-20,400
+103,Email,2023-01-10,2023-01-25,200
+104,Organic,2023-01-01,2023-01-31,0
